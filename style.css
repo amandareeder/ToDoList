@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-image: linear-gradient(
+      rgba(60, 40, 20, 0.85),
+      rgba(60, 40, 20, 0.85)
+    ),
+    url("cute\ dark\ academia\ cat.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* App container */
+.bg-gray-900 {
+  background-color: #3b2a1a !important; 
+}
+
+/* Title */
+h1 {
+  color: #ff8c42; 
+}
+
+/* Input */
+input {
+  background-color: #fffaf3;
+  color: #3b2a1a;
+}
+
+.todo-item {
+  background-color: #fffaf3;
+  border-left: 6px solid #ff8c42;
+  padding: 12px;
+  margin-bottom: 12px;
+  border-radius: 6px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.todo-item p {
+  color: #3b2a1a;
+  font-weight: 600;
+}
+
+.edit-btn {
+  background-color: #8b5e34;
+  color: white;
+  padding: 6px 10px;
+  margin-right: 6px;
+  border-radius: 4px;
+}
+
+.edit-btn:hover {
+  backgro
+
+  .text-indigo-600 {
+  color: #ff8c42 !important;
+}
+
+.bg-indigo-600 {
+  background-color: #8b5e34 !important;
+}
+
+.border-indigo-600 {
+  border-color: #ff8c42 !important; 
+}
